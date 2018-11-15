@@ -1,22 +1,8 @@
 # Fast Abstractive Summarization-RL
-This repository contains the code for our ACL 2018 paper:
+
+This work is derived from Yen-Chun Chen and Mohit Bansal's work in 
 
 *[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/abs/1805.11080)*.
-
-You can
-1. Look at the generated summaries and evaluate the ROUGE/METEOR scores
-2. Run decoding of the pretrained model
-3. Train your own model
-
-If you use this code, please cite our paper:
-```
-@inproceedings{chen2018fast,
-  title={Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting},
-  author={Yen-Chun Chen and Mohit Bansal},
-  booktitle={Proceedings of ACL},
-  year={2018}
-}
-```
 
 ## Dependencies
 - **Python 3** (tested on python 3.6)
